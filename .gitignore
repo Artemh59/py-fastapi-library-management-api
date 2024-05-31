@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 .idea/
 
-library_management.db
+*.db
